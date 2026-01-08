@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      Hello, this is a simple React ap
+      Hello, this is a simple React app
     </div>
   )
 }
