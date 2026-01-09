@@ -23,7 +23,7 @@ function App() {
     <div className="app">
       {/* Header */}
       <header className="header">
-        <h1>Delna Crochet Creations</h1>
+        <h1>Delna's Crochet Creations</h1>
         <nav>
           <a href="#gallery">Gallery</a>
           <a href="#about">About</a>
